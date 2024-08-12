@@ -1,6 +1,6 @@
-Developing a Professional Networking Platfrom on Flutter, Node js and Mongo db
+Developing a Professional Networking platform on Flutter, Node js, and Mongo DB
 
-Clone the github into vscode
-Open Terminal and run
+Clone the GitHub into vs code
+Open the Terminal and run
 flutter pub get
 to remover errors
